@@ -166,7 +166,6 @@ assert error_get_text == "Please enter a coupon code."
 driver.quit()
 
                # Покупка товара
-
 import time
 from selenium import webdriver
 from selenium.webdriver.common.by import By
